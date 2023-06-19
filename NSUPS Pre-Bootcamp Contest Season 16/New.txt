@@ -1,4 +1,0 @@
-1.  In C++,
-    Precision Handling is used as "cout << fixed << setprecision(n) << ...;"
-
-2.  
